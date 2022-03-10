@@ -1,0 +1,5 @@
+name: MGCAPI
+author: Stellaros
+version: ${project.version}
+main: net.mythigame.mgcapi.MGCAPI
+description: MGC API
